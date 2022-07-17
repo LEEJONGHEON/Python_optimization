@@ -4,6 +4,12 @@
 - 파이썬 실행시간 분석
 ## ![image](https://user-images.githubusercontent.com/54635552/179389303-baa43538-c93f-423c-a08e-0919dd5de382.png)
 
+## 함수의 중복 호출방지
+- 테스트 환경
+## ![image](https://user-images.githubusercontent.com/54635552/179393389-a6b4dcc0-8d6d-41de-930d-a5ef9690f53f.png)
+- 성능비교표
+## ![image](https://user-images.githubusercontent.com/54635552/179393399-99c59900-a43f-479c-85af-01020401ebd6.png)
+
 ## third-party 패키지
 - PyPy : 파이썬 코드 최적화 하기위한 JIT 컴파일러
 - Cython : Python 코드 C로 변환
